@@ -1,20 +1,84 @@
 {
     "books": [
       {
-        "name": "ramayan1",
-        "author": "hrishi valmiki2",
-        "producer": "valmiki2",
-        "writer": "valmiki2"
-    }
-    ],
-    "user": [
-
-    ],
-    "login": [
-
-    ],
-    "signUp":[
-      
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter 2",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2020",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
+      },
+      {
+        "image_url": "https://b9r8e6p9.stackpathcdn.com/app/uploads/2021/03/This-Tender-Land_SS.jpg",
+        "book_name": "Harry Potter 3",
+        "author": "Aniket",
+        "genre": "Science",
+        "edition": "2021",
+        "publisher": "asda",
+        "cost": 1200,
+        "borrowed": false
+      },
+      {
+        "image_url": "https://specials-images.forbesimg.com/imageserve/5d6d9e53fead28000892daf4/Harry-Potter-And-The-Sorcerer-s-Stone-Best-YA-Fantasy/960x0.jpg?fit=scale",
+        "book_name": "Harry Potter 4",
+        "author": "Rasal",
+        "genre": "History",
+        "edition": "2022",
+        "publisher": "Nayan",
+        "cost": 199,
+        "borrowed": false
+      },
+      {
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0va53ipdYZC_XrE_sQ9OG_WMOm0xIAsBKIu8bcs2bSa5TNtMbHdUW1moxJv3OUsiFrU&usqp=CAU",
+        "book_name": "Harry Potter 5",
+        "author": "Avishkar",
+        "genre": "Tech",
+        "edition": "2020",
+        "publisher": "India",
+        "cost": 99,
+        "borrowed": false
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter 6",
+        "author": "Ashwin",
+        "genre": "Science",
+        "edition": "2021",
+        "publisher": "Pranav",
+        "cost": 499,
+        "borrowed": false
+      },
+      {
+        "image_url": "https://b9r8e6p9.stackpathcdn.com/app/uploads/2021/03/This-Tender-Land_SS.jpg",
+        "book_name": "Harry Potter 7",
+        "author": "Preeti",
+        "genre": "fiction",
+        "edition": "2022",
+        "publisher": "Virat",
+        "cost": 799,
+        "borrowed": false
+      },
+      {
+        "image_url": "https://specials-images.forbesimg.com/imageserve/5d6d9e53fead28000892daf4/Harry-Potter-And-The-Sorcerer-s-Stone-Best-YA-Fantasy/960x0.jpg?fit=scale",
+        "book_name": "Harry Potter 8",
+        "author": "Abhinav",
+        "genre": "History",
+        "edition": "2020",
+        "publisher": "Shree",
+        "cost": 1899,
+        "borrowed": false
+      },
+      {
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0va53ipdYZC_XrE_sQ9OG_WMOm0xIAsBKIu8bcs2bSa5TNtMbHdUW1moxJv3OUsiFrU&usqp=CAU",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "Business",
+        "edition": "2022",
+        "publisher": "Bhads",
+        "cost": 2499,
+        "borrowed": false
+      }
     ]
-
   }
