@@ -8,7 +8,8 @@
         "edition": "2020",
         "publisher": "Bloomsbury",
         "cost": 1299,
-        "borrowed": false
+        "borrowed": false,
+        "id":1
       },
       {
         "image_url": "https://b9r8e6p9.stackpathcdn.com/app/uploads/2021/03/This-Tender-Land_SS.jpg",
@@ -18,7 +19,8 @@
         "edition": "2021",
         "publisher": "asda",
         "cost": 1200,
-        "borrowed": false
+        "borrowed": false,
+        "id":2
       },
       {
         "image_url": "https://specials-images.forbesimg.com/imageserve/5d6d9e53fead28000892daf4/Harry-Potter-And-The-Sorcerer-s-Stone-Best-YA-Fantasy/960x0.jpg?fit=scale",
@@ -28,7 +30,8 @@
         "edition": "2022",
         "publisher": "Nayan",
         "cost": 199,
-        "borrowed": false
+        "borrowed": false,
+        "id":3
       },
       {
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0va53ipdYZC_XrE_sQ9OG_WMOm0xIAsBKIu8bcs2bSa5TNtMbHdUW1moxJv3OUsiFrU&usqp=CAU",
@@ -38,7 +41,8 @@
         "edition": "2020",
         "publisher": "India",
         "cost": 99,
-        "borrowed": false
+        "borrowed": false,
+        "id":4
       },
       {
         "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
@@ -48,7 +52,8 @@
         "edition": "2021",
         "publisher": "Pranav",
         "cost": 499,
-        "borrowed": false
+        "borrowed": false,
+        "id":5
       },
       {
         "image_url": "https://b9r8e6p9.stackpathcdn.com/app/uploads/2021/03/This-Tender-Land_SS.jpg",
@@ -58,7 +63,8 @@
         "edition": "2022",
         "publisher": "Virat",
         "cost": 799,
-        "borrowed": false
+        "borrowed": false,
+        "id":6
       },
       {
         "image_url": "https://specials-images.forbesimg.com/imageserve/5d6d9e53fead28000892daf4/Harry-Potter-And-The-Sorcerer-s-Stone-Best-YA-Fantasy/960x0.jpg?fit=scale",
@@ -68,7 +74,8 @@
         "edition": "2020",
         "publisher": "Shree",
         "cost": 1899,
-        "borrowed": false
+        "borrowed": false,
+        "id":7
       },
       {
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0va53ipdYZC_XrE_sQ9OG_WMOm0xIAsBKIu8bcs2bSa5TNtMbHdUW1moxJv3OUsiFrU&usqp=CAU",
@@ -78,7 +85,8 @@
         "edition": "2022",
         "publisher": "Bhads",
         "cost": 2499,
-        "borrowed": false
+        "borrowed": false,
+        "id":8
       }
     ]
   }
